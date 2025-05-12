@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+joblib
+torch
+numpy
+scikit-learn
+pandas
+python-multipart
